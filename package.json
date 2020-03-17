@@ -1,0 +1,19 @@
+{
+  "name": "typescript-learning",
+  "version": "1.0.0",
+  "description": "Master and build reactive Single Page Applications(SPA) from scratch using Angular (formerly \"Angular 2\" or \"AngularJS\")",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/natrimore/typescript-learning.git"
+  },
+  "author": "JakhongirMurtazayev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/natrimore/typescript-learning/issues"
+  },
+  "homepage": "https://github.com/natrimore/typescript-learning#readme"
+}
