@@ -4,7 +4,7 @@
   "description": "Master and build reactive Single Page Applications(SPA) from scratch using Angular (formerly \"Angular 2\" or \"AngularJS\")",
   "main": "index.js",
   "scripts": {
-    "start": "tsc var.ts -w",
+    "start": "tsc let.ts primitives.ts const.ts var.ts -w",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
